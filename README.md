@@ -1,8 +1,8 @@
-# myapp
+# Create register and Login Using data Dummy at IDX Google 
 
-A new Flutter project.
+A new Kotlin & Flutter project.
 
-## Getting Started
+## the visual Design Using Flutter
 
 This project is a starting point for a Flutter application.
 
